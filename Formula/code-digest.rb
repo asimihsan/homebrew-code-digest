@@ -7,7 +7,6 @@ class CodeDigest < Formula
     version "0.2.0"
 
     def install
-        bin.install = "code-digest"
+        bin.install "code-digest"
     end
-  end
-  
+end
