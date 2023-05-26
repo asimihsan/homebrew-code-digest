@@ -1,8 +1,8 @@
 class CodeDigest < Formula
     desc "Extract key content from source code files"
     homepage "https://github.com/asimihsan/code-digest"
-    url "https://github.com/asimihsan/code-digest/releases/download/0.5.0/code-digest-macos-arm64.zip"
-    sha256 "4efe8e35907fe884c723697204f8cba721b6e1f9b07e997e1e8692819a1b6257"
+    url "https://github.com/asimihsan/code-digest/releases/download/0.5.0/code-digest-macos.zip"
+    sha256 "a062197cd7d16837ff75165fce6b35d89f6c756213a24bc67cdeb7f8c9a0818b"
     license "MPL-2.0"
     version "0.5.0"
 
